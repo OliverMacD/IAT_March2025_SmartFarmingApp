@@ -65,7 +65,7 @@ def generate_data():
         "zones": all_zones
     })
 
-# ✅ Proper handler with both websocket and path
+# Proper handler with both websocket and path
 async def sensor_server(websocket):
     print("Client connected")
     try:
@@ -76,7 +76,7 @@ async def sensor_server(websocket):
     except websockets.exceptions.ConnectionClosed:
         print("Client disconnected")
 
-# ✅ Modern asyncio server runner
+# Modern asyncio server runner
 async def main():
     print("Starting SmartFarm WebSocket server on ws://localhost:8765")
     async with websockets.serve(sensor_server, "localhost", 8765):

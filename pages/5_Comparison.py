@@ -27,8 +27,7 @@ if st.session_state["ws_started"]:
 else:
     current_data = load_data()
 
-# Load past season mock data (for example, last year)
-# Here we simulate by modifying current values slightly
+# Load past season mock data
 past_data = {"zones": []}
 for zone in current_data["zones"]:
     old_zone = copy.deepcopy(zone)
