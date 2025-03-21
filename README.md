@@ -65,8 +65,8 @@ A progressive adoption plan designed for small and medium-sized farms to evolve 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/smartfarm-app.git
-cd smartfarm-app
+git clone https://github.com/OliverMacD/IAT_March2025_SmartFarmingApp
+cd IAT_March2025_SmartFarmingApp
 ```
 
 ### 2. Install Requirements
