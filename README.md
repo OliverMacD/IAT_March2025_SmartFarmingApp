@@ -1,6 +1,6 @@
 # 🌾 SmartFarm Dashboard by Totech
 
-**March 2025 Innovate-a-thon: Improving the Tomato Supply Chain**  
+**March 2025 Innovate-a-thon Winner: Improving the Tomato Supply Chain**  
 🏆 _Totech 4-Stage Smart Farming System – “Scalable Innovation for Smarter Farms”_
 
 SmartFarm is a Streamlit-based interactive platform developed for the Innovate-a-thon competition to revolutionize the tomato supply chain through affordable, modular smart farming technologies.
