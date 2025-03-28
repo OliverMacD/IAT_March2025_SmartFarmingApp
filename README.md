@@ -145,7 +145,7 @@ Built with passion by:
       <b>Makeña Verdugo</b><br>Development & Research Planning
     </td>
     <td align="center">
-      <img src="https://media.licdn.com/dms/image/v2/D4D35AQEu0zKbOec08A/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1734618966006?e=1743145200&v=beta&t=CtXdCzQgO3ID1TDaADg1oVb2VGbfM6GeQu10An0Z62A" width="100"><br>
+      <img src="https://media.licdn.com/dms/image/v2/D4E03AQH3GZXRgU9emA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725927377613?e=1748476800&v=beta&t=EtCNkO_z0a-AAQbNXKGbyEOjeMX5dgTVZL_7ke1Q3xM" width="100"><br>
       <b>Paridha Talmale</b><br>Business Analysis & Ideation
     </td>
   </tr>
